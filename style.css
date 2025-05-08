@@ -108,19 +108,31 @@
       transform-origin: center;
     }
     
-    .page {
+/*     .page {
       width: 90%;
       margin : 5px;
+    } */
+        .page {
+          padding: 20px;
+        }
+
+        .right img {
+          /* max-width: 30%; */
+          height: 250px;
+          width: 300px;
+         
+          
+          border-radius: 8px;
+        }
      
-    }
     .left h1 {
-      font-size: 1.37rem;
+      font-size: 1.32rem;
           }
           
           .left p {
-            line-height: 1.5rem;
+            line-height: 1.2rem;
             /* letter-spacing: 1.9px; */
-            font-size: 1.12rem;
+            font-size: 1rem;
           }
 
 
@@ -153,18 +165,7 @@
             margin-top: 20px;
         }
 
-        .page {
-          padding: 20px;
-        }
 
-        .right img {
-          /* max-width: 30%; */
-          height: 250px;
-          width: 300px;
-         
-          
-          border-radius: 8px;
-        }
         
         
     }
