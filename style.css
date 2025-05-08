@@ -109,8 +109,8 @@
     }
     
     .page {
-      width: 64%;
-       height: 92vh;
+      width: 60vw;
+      height: 92vh;
       margin: 5px;
       padding: 20px;
     }
@@ -119,8 +119,6 @@
           /* max-width: 30%; */
           height: 290px;
           width: 300px;
-         
-          
           border-radius: 8px;
         }
      
@@ -135,14 +133,14 @@
           }
 
 
-/*     .right{
+    .right{
         margin-bottom: 10px;
     }
 
     .left{
         margin-top: 10px;
     }
-  } */
+  } 
 
   @media (max-width: 380px){
       
