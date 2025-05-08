@@ -106,6 +106,7 @@
       animation: openBook 3s ease-in-out forwards;
       transform: scaley(0);
       transform-origin: center;
+       padding: 5px;
     }
     
     .page {
@@ -135,14 +136,14 @@
           }
 
 
-    .right{
+/*     .right{
         margin-bottom: 10px;
     }
 
     .left{
         margin-top: 10px;
     }
-  }
+  } */
 
   @media (max-width: 380px){
       
