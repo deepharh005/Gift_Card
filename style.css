@@ -108,13 +108,10 @@
       transform-origin: center;
     }
     
-/*     .page {
-      width: 90%;
-      margin : 5px;
-    } */
-        .page {
-          padding: 20px;
-        }
+    .page {
+      width: 85%;
+      margin: 5px;
+    }
 
         .right img {
           /* max-width: 30%; */
