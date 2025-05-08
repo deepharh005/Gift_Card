@@ -109,9 +109,10 @@
     }
     
     .page {
-      width: 90%;
-       height: 90vh;
+      width: 80%;
+       height: 80vh;
       margin: 5px;
+      padding: 10px;
     }
 
         .right img {
